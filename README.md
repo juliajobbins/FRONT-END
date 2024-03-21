@@ -1,2 +1,2 @@
 # FRONT-END
-Arquivo para atividades e Front-End
+Arquivo para atividades de Front-End
