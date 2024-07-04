@@ -1,17 +1,19 @@
-body{
+body {
     background-color: #18382b;
-    margin-left: 10%;
-    margin-right: 10%;
+    font-family: sans-serif;
+    color: #fff;
+}
+
+.content {
     border: 4px double #0f5132;
     padding: 10px 10px 10px 10px;
-    font-family: sans-serif;
-    }
-    
+}
+
 header {
-    background-color: #18382b;
+    background-color: #1A3C2E;
     padding: 20px;
     text-align: center;
-    border-bottom: 5px solid #0f5132;
+    border-bottom: 5px solid #1A3C2E;
 }
 
 nav ul {
