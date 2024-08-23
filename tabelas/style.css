@@ -1,3 +1,11 @@
+a {
+  color: #000000;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #242222;
+}
 table {
     border-collapse: collapse;
     border: 2px solid rgb(140 140 140);
@@ -7,7 +15,7 @@ table {
   }
   
   caption {
-    caption-side: bottom;
+    caption-side: top;
     padding: 10px;
     font-weight: bold;
   }
