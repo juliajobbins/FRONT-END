@@ -40,7 +40,7 @@ nav a:hover {
 }
 
 h1{
-    color: #034731
+    color: #ffffff
 }
 
 h2{
@@ -123,18 +123,22 @@ h2.borda5{background: darkred;
 p {
             font-size: 18px;
             margin-bottom: 20px;
-            color: #0f5132;
+            color: #ffffff;
             text-align: center;
         }
 h3 {
-    color: #0f5132;
+    color: #ffffff;
 }
 li {
-    color: #061600;
+    color: #ffffff;
     font-size: 20px;
 }
 table {
     line-height: 40px;
-    color: #061600;
+    color: #ffffff;
     text-align: center;
+}
+
+th {
+    color: #ffffff;
 }
